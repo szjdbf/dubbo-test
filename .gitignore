@@ -1,0 +1,23 @@
+target/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.tar.gz
+?
+# eclipse ignore
+.settings/
+.project
+.classpath
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+# logs #
+logs
+# temp ignore
+*.log
+*.cache
+apidoc/
